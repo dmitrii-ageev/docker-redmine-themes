@@ -66,7 +66,11 @@ To upgrade to newer releases, simply pull the new image from the Docker hub, rec
 
 # References
 
- * Redmine
- * RedmineUP
- * RMPlus
+ * Redmine      https://www.redmine.org
+ * RedmineUP    https://www.redmineup.com
+ * RM+          https://rmplus.pro
+
+# Author
+
+ **Dmitrii Ageev** <d.ageev@gmail.com>
 
